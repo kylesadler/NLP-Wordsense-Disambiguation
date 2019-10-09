@@ -1,0 +1,2 @@
+python3 create_data.py
+python3 bayes_classifier.py
